@@ -1,0 +1,262 @@
+---
+title: "VAGB resume"
+author: VAGB
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![foto](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4X6LiBQAAAAJ&citpid=29){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> bastazini.vinicius@gmail.com
+- <i class="fa fa-github"></i> [github.com/bastazini](https://github.com/bastazini)
+- <i class="fab fa-orcid"></i>[0000-0001-5270-0621](https://orcid.org/0000-0001-5270-0621)
+- <i class="fa fa-google"></i>[Google Scholar/Bastazini](https://scholar.google.com/citations?user=4X6LiBQAAAAJ&hl=pt-BR)
+- <i class="fa fa-phone"></i> (+351) 9 10 51 51  0 6
+<i class="fab fa-orcid"></i>
+
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+-Community Ecology 
+-Bigeography
+-Conservation Biology
+-Evolutionary biology
+-Complex Networks
+
+
+Main
+================================================================================
+
+Vinicius Augusto Galvão Bastazini {#title}
+--------------------------------------------------------------------------------
+
+### Summary
+
+I have a broad (and when I say broad, I mean broad!) interest in Ecology, Evolutionary Biology and Conservation Biology, but my main interest lies in understanding the interplay between ecological and evolutionary dynamics and its consequences to patterns of biological diversity and species interactions. I address these kinds of questions by combining aspects of phylogenetics, network and functional ecology, using species traits as a biological building block to understand eco-evolutionary feedback and its consequences to ecological communities and ecosystems services.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+###  Federal University of Rio Grande do Sul
+
+PhD Ecology*
+
+Porto Alegre, Brazil
+
+2011 -  2015
+ 
+Dissertation: Integrating Evolutionary and Ecological Processes in the Study of Interaction Networks.
+
+*Title recognized by the University of Lisbon 2019
+
+
+### Federal University of Rio Grande do Sul
+
+M.S. Ecology
+
+Porto Alegre, Brazil
+
+2009 -  2011
+
+Thesis: Effects of Habitat and Spatial Structure on Mammalian Diversity in Northern Pantanal: A Fine Grain Approach
+
+###  / Catholic University of Pelotas 
+
+BSc Ecology
+
+Pelotas, Brazil
+
+2004 -  2007
+
+Monograph: Spatial Analysis of the Trophic Ecology of the Neotropical Otter (Lontra Longicaudis) (Olfers, 1818) (Mustelidae: Lutrinae)
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Researcher
+
+University of  Évora
+
+Évora, Portugal
+
+2021 -
+
+### Research Fellow
+
+Federal University of Rio Grande do Sul - Road and Railroad Ecology Center 
+
+Porto Alegre, Brazil
+
+Mar 2020 - Oct 2020
+
+### Post-doctoral  Researcher
+
+French National Center for Scientific Research
+
+Moulis, France
+
+2017 -  2019
+
+### Research Fellow
+
+Federal University of Rio Grande do Sul - Laboratory of Quantitative Ecology -
+
+Porto Alegre, Brazil
+
+2016
+
+### Professor Biostatistcs
+
+Catholic University of Pelotas  - Specialization in Conservation Biology
+
+Pelotas, Brazil
+
+2013
+
+### Research Fellow
+
+Catholic University of Pelotas
+
+Pelotas, Brazil
+
+2008- 2009
+
+### Research Fellow
+
+Federal University of Rio Grande do Sul
+
+Porto Alegre, Brazil
+
+2008- 2009
+
+### Co-founder and Member of the Executive Committee.
+
+Pró-Pampa Institute
+
+Pelotas, Brazil  
+
+2006- 
+
+
+Publications{data-icon=file}
+--------------------------------------------------------------------------------
+
+### The role of evolutionary modes for trait-based cascades in mutualistic networks.
+
+*BioRxiv* : 1-22
+
+N/A
+
+2021
+
+**Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V.P.
+
+
+### Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies.
+
+*Oecologia* 196: 633–647.
+
+N/A
+
+2021 
+
+Debastiani, V., **Bastazini, V.A.G.** & Pillar, V.P. 
+
+
+### Using phylogenetic information to impute missing functional trait values in ecological databases. 
+
+*Ecological Informatics* 63: 101315.
+
+N/A
+
+2021 
+
+Debastiani, V., **Bastazini, V.A.G.** & Pillar, V.P. 
+
+
+
+
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Biostatistic using R
+
+Dep. Botany - Federal University of Rio Grande do Sul  /   Professor
+
+Porto Alegre, Brazil
+
+2017
+
+Outreach {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Blog creation and maintenance
+-Biodiverse Perspectives  / Co-founder, writer and International Communications and Outreach Chairman
+
+USA
+
+2013 -  2016
+
+### Blog posts
+
+-Reconnecting the Web of Life: Rewiring and Network Robustness. Methods in Ecology and Evolution
+
+N/A
+
+2019
+
+-Even Better Than gold:The Value of Protected Areas. Biodiverse Perspectives
+
+N/A
+
+2015
+
+-The New Do Re Mi in the Old LDG .Biodiverse Perspectives 
+
+N/A
+
+2014
+
+-The Forgotten Armadillo. Biodiverse Perspectives 
+
+N/A
+
+2014
+
+-Food Webs and Species Diversity. Biodiverse Perspectives
+
+N/A
+
+2013
+
+-Partitioning Species Diversity: History and Implications. Biodiverse Perspectives
+
+N/A
+
+2013
+
+-The “Prince of observers” and the first mathematical model of evolution. Biodiverse Perspectives
+
+N/A
+
+2013
