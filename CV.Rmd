@@ -16,7 +16,7 @@ Aside
 ================================================================================
 
 
-![foto](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4X6LiBQAAAAJ&citpid=29){width=80%}
+![foto](https://scontent.flis10-1.fna.fbcdn.net/v/t1.6435-9/123598656_1848816121923525_4086652745125247672_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ptg6uDTZ_EoAX9-JQeJ&_nc_ht=scontent.flis10-1.fna&oh=a1250d70ac23b586d4df5ec3000f18f2&oe=61AD931D){width=80%}
 
 
 Contact Info {#contact}
@@ -55,9 +55,9 @@ I have a broad (and when I say broad, I mean broad!) interest in Ecology, Evolut
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-###  Doctor of Science*
+###  Doctor of Science
 
-Federal University of Rio Grande do Sul
+Federal University of Rio Grande do Sul*
 
 Porto Alegre, Brazil
 
@@ -166,6 +166,7 @@ N/A
 N/A
 
 N/A
+
 
 ### Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies
 
@@ -288,7 +289,7 @@ N/A
 
 2018
 
-Gonçalves, L. O., Alvares D. J., Teixeira F. Z., Schuck G., Coelho I. P., Esperandio I. B., Anza J., Beduschi J., **Bastazini V. A. G.**, Kindel A.
+Gonçalves, L. O., Alvares, D. J., Teixeira, F. Z., Schuck, G., Coelho, I. P., Esperandio, I. B., Anza, J., Beduschi, J., **Bastazini, V. A. G.** & Kindel, A.
 
 ### Untangling the tangled bank: A novel method for partitioning the effects of phylogenies and traits on ecological networks
 
@@ -445,6 +446,7 @@ Rio de Janeiro, Brazil
 
 2013
 
+Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.
 
 ### PREPRINTS
 
@@ -567,7 +569,7 @@ Caçapava do Sul, Brazil
 2007
 
 
-Academic Advisory {data-icon=chalkboard-teacher}
+Academic Advisory {data-icon=user-friends}
 --------------------------------------------------------------------------------
 
 ### Bruna de Castro Knopp
@@ -800,7 +802,7 @@ Writer
 
 Portugal
 
-2021
+2021 -
 
 ### Biodiverse Perspectives
 Co-founder, Writer and International Communications and Outreach Chairman
