@@ -98,7 +98,7 @@ University of  Évora
 
 Évora, Portugal
 
-2021
+2021 - present
 
 ### Research Fellow
 
@@ -114,7 +114,7 @@ French National Center for Scientific Research
 
 Moulis, France
 
-2017 -  2019
+2017 - 2019
 
 ### Research Fellow
 
@@ -146,7 +146,7 @@ Federal University of Rio Grande do Sul
 
 Porto Alegre, Brazil
 
-2008- 2009
+2008 - 2009
 
 ### Co-founder and Member of the Executive Committee
 
@@ -154,7 +154,7 @@ Pró-Pampa Institute
 
 Pelotas, Brazil  
 
-2006- 
+2006 - present
 
 
 Publications{data-icon=file}
@@ -167,6 +167,15 @@ N/A
 
 N/A
 
+### Ecological network complexity scales with area 
+
+*Nature Ecology and Evolution*  
+
+N/A
+
+In Press
+
+Galiana, N., Lurgi M., **Bastazini, V.A.G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S.J., McCann, K., McLeod, A.M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D.P, Wood, S.A., Gravel, D., Roslin, T., Thuiller, W. & Montoya, J.M. 
 
 ### Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies
 
