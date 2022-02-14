@@ -461,7 +461,7 @@ In: *Road Ecology: Synthesis and Perspectives*. eds.: D'Amico, M., Barrientos, R
 
 Germany
 
-In prep.
+In press.
 
 Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F.
 
@@ -474,7 +474,7 @@ Rio de Janeiro, Brazil
 
 Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.
 
-### PREPRINTS
+### Paper under review PREPRINTS
 
 N/A
 
@@ -810,6 +810,7 @@ N/A
 - Methods in Ecology and Evolution
 - Perspectives in Plant Ecology Evolution and Systematics
 - The Science of Nature
+- Forest Ecology and Management
 ::: 
 
 
