@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 
 ---
 
@@ -158,7 +158,7 @@ Pelotas, Brazil
 
 Publications{data-icon=file}
 --------------------------------------------------------------------------------
-### PEER-REVIEWED ARTICLES
+### PEER-REVIEWED ARTICLES 
 
 N/A
 
@@ -474,7 +474,7 @@ Rio de Janeiro, Brazil
 
 Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.
 
-### Paper under review PREPRINTS
+### PREPRINTS
 
 N/A
 
@@ -621,6 +621,14 @@ Porto Alegre, Brazil
 
 Invited Talks  {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+###  Understanding the responses of mutualistic networks to climate change through the lens of evolutionary history
+
+Norwegian Institute for Nature Research
+
+Norway
+
+2022
 
 ### Ecological networks
 
