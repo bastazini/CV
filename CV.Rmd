@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 
 ---
 
@@ -165,6 +165,17 @@ N/A
 N/A
 
 N/A
+
+### The role of evolutionary modes for trait-based cascades in mutualistic networks
+
+*Ecological Modelling*: 1-22
+
+N/A
+
+In press
+
+**Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V.P.
+
 
 ### Ecological network complexity scales with area 
 
@@ -481,16 +492,6 @@ N/A
 N/A
 
 N/A
-
-### The role of evolutionary modes for trait-based cascades in mutualistic networks
-
-*BioRxiv*: 1-22
-
-N/A
-
-2021
-
-**Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V.P.
 
 ### Habitat fragmentation compromises the population dynamic of the globally near-threatened Straight-billed Reedhaunter (Limnoctites rectirostris).
 
@@ -813,12 +814,14 @@ N/A
 - Ecography
 - Ecology Letters
 - Forest Ecology and Management
+- Frontiers in Ecology and Evolution
 - Iheringia - Série Botânica
 - Iheringia – Série Zoologia
 - Journal of Biogeography
 - Methods in Ecology and Evolution
 - Oikos
 - Perspectives in Plant Ecology Evolution and Systematics
+- Scientific Reports
 - The Science of Nature
 ::: 
 
