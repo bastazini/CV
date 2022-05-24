@@ -168,14 +168,23 @@ N/A
 
 ### The role of evolutionary modes for trait-based cascades in mutualistic networks
 
-*Ecological Modelling*: 1-22
+*Ecological Modelling* 470: 109983
 
 N/A
 
-In press
+2022
 
 **Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V.P.
 
+### Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales
+
+*Journal of VegetationScience*: X-X
+
+N/A
+
+2022
+
+Bergamin, R S., Ascensão, F., Capinha, C.,  **Bastazini, V. A. G.**, Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G.E.
 
 ### Ecological network complexity scales with area 
 
