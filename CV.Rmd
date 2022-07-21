@@ -16,14 +16,13 @@ Aside
 ================================================================================
 
 
-![foto](https://scontent.flis10-1.fna.fbcdn.net/v/t1.6435-9/123598656_1848816121923525_4086652745125247672_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ptg6uDTZ_EoAX9-JQeJ&_nc_ht=scontent.flis10-1.fna&oh=a1250d70ac23b586d4df5ec3000f18f2&oe=61AD931D){width=80%}
+![foto](foto.png){width=80%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> bastazini.vinicius@gmail.com
-- <i class="fa fa-phone"></i> (+351) 9 10 51 51  0 6
 - <i class="fab fa-skype"></i> vinicius.bastazini 
 - <i class="fa fa-github"></i> [github.com/bastazini](https://github.com/bastazini)
 - <i class="fab fa-researchgate"></i> [Research Gate](https://www.researchgate.net/profile/Vinicius-Bastazini-2)
@@ -34,11 +33,11 @@ Contact Info {#contact}
 Expertise {#skills}
 --------------------------------------------------------------------------------
 
--Community Ecology 
--Bigeography
--Conservation Biology
--Evolutionary biology
--Complex Networks
+- Bigeography
+- Community Ecology 
+- Evolutionary Ecology 
+- Complex Networks 
+- Conservation Biology
 
 
 Main
@@ -173,7 +172,7 @@ N/A
 
 N/A
 
-In review
+In press
 
 Galiana, N., Lurgi M., **Bastazini, V.A.G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S.J., McCann, K., McLeod, A.M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D.P, Wood, S.A., Gravel, D., Roslin, T., Thuiller, W. & Montoya, J.M. 
 
@@ -440,16 +439,25 @@ N/A
 
 Kasper, C. B., **Bastazini, V. A. G.**, Salvi, J. & Grillo, H. C. Z. 
 
-### BOOKS
+### BOOKS AND BOOK CHAPTERS
 
 N/A
 
 N/A
 
 N/A
+
+### Road effects on biotic interactions
+In: *Road Ecology: Synthesis and Perspectives*. eds.: D'Amico, M., Barrientos, R., Ascensão, F. Elsevier Science Publishing Co.
+
+Germany
+
+In prep.
+
+Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F.
 
 ### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas
-Ed. SESC. 
+SESC Publishing Co. 
 
 Rio de Janeiro, Brazil
 
@@ -832,7 +840,7 @@ Writer
 
 Portugal
 
-2021 -
+2021 - present
 
 ### Biodiverse Perspectives
 Co-founder, Writer and International Communications and Outreach Chairman
