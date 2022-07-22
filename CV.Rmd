@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 
 ---
 
@@ -67,7 +67,7 @@ Dissertation: Integrating Evolutionary and Ecological Processes in the Study of 
 *Title recognized by the University of Lisbon 2019
 
 
-### M.S. Ecology
+### Master's degree in Ecology
 
 Federal University of Rio Grande do Sul
 
@@ -77,7 +77,7 @@ Porto Alegre, Brazil
 
 Thesis: Effects of Habitat and Spatial Structure on Mammalian Diversity in Northern Pantanal: A Fine Grain Approach
 
-###  BSc Ecology
+###  Bachelor of Science in Ecology
 
 Catholic University of Pelotas 
 
@@ -166,6 +166,16 @@ N/A
 
 N/A
 
+### Mainstreaming ecological connectivity in road environmental impact assessments: a long way to go
+
+*Impact Assessment and Project Appraisal* 1-6
+
+N/A
+
+2022
+
+Gonçalves, L.O., Kindel, A., **Bastazini, V.A.G.**,  & Teixeira, F.Z.
+
 ### The role of evolutionary modes for trait-based cascades in mutualistic networks
 
 *Ecological Modelling* 470: 109983
@@ -174,17 +184,7 @@ N/A
 
 2022
 
-**Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V.P.
-
-### Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales
-
-*Journal of VegetationScience* 33(3): e13133
-
-N/A
-
-2022
-
-Bergamin, R S., Ascensão, F., Capinha, C.,  **Bastazini, V. A. G.**, Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G.E.
+**Bastazini, V.A.G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V.P.
 
 ### Ecological network complexity scales with area 
 
@@ -195,6 +195,16 @@ N/A
 2022
 
 Galiana, N., Lurgi M., **Bastazini, V.A.G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S.J., McCann, K., McLeod, A.M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D.P, Wood, S.A., Gravel, D., Roslin, T., Thuiller, W. & Montoya, J.M. 
+
+### Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales
+
+*Journal of VegetationScience* 33(3): e13133
+
+N/A
+
+2022
+
+Bergamin, R S., Ascensão, F., Capinha, C.,  **Bastazini, V.A.G.**, Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G.E.
 
 ### Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies
 
@@ -467,15 +477,6 @@ N/A
 
 N/A
 
-### Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil
-USEB
-
-Brazil
-
-In prep.
-
-Gonçalves, M., Andretti, C., **Bastazini, V. A. G.**, Lanés, L. E.
-
 ### Road effects on biotic interactions
 In: *Road Ecology: Synthesis and Perspectives*. eds.: D'Amico, M., Barrientos, R., Ascensão, F. Elsevier Science Publishing Co.
 
@@ -485,32 +486,43 @@ In press.
 
 Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F.
 
-### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas
-SESC Publishing Co. 
+### Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil (Biodiversity and conservation of aquatic ecosystems in southern Brazil)
 
-Rio de Janeiro, Brazil
+USEB
+
+Brazil
+
+In press.
+
+Gonçalves, M., **Bastazini, V.A.G.**,  Lanés, L. E., Andretti, C.
+
+### Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas (Unravelling the conservation potential of wetlands using complex network tools)
+In: *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. eds.: Gonçalves, M., Andretti, C., **Bastazini, V.A.G.**, Lanés, L. E. USEB
+
+Brazil
+
+In press.
+
+**Bastazini, V. A. G.**,  Gianuca A.T., Vizentin-Bugoni J.,  Gonçalves, M.S.S., & Dias R.A.
+
+### A fragmentação afeta a dinâmica populacional do arredio-do-gravatá em manchas úmidas naturais (Habitat fragmentation compromises the population dynamic of the Straight-billed Reedhaunter in natural wetlands)
+In: *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. eds.: Gonçalves, M., Andretti, C., **Bastazini, V.A.G.**, Lanés, L. E. USEB
+
+Brazil
+
+In press.
+
+Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J. & Iborra, G.L.
+
+
+### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps)
+Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.SESC Publishing Co. 
+
+Brazil
 
 2013
 
-Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.
-
-### PREPRINTS
-
-N/A
-
-N/A
-
-N/A
-
-### Habitat fragmentation compromises the population dynamic of the globally near-threatened Straight-billed Reedhaunter (Limnoctites rectirostris).
-
-*BioRxiv*: 1-18
-
-N/A
-
-2018
-
-Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J. & Iborra, G.L.
+NA
 
 
 Teaching Experience as an Instructor {data-icon=chalkboard-teacher}
@@ -822,6 +834,7 @@ N/A
 - Community Ecology 
 - Ecography
 - Ecology Letters
+- Evolutionary Ecology
 - Forest Ecology and Management
 - Frontiers in Ecology and Evolution
 - Iheringia - Série Botânica
