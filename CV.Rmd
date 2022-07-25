@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 
 ---
 
@@ -166,16 +166,6 @@ N/A
 
 N/A
 
-### Mainstreaming ecological connectivity in road environmental impact assessments: a long way to go
-
-*Impact Assessment and Project Appraisal* 1-6
-
-N/A
-
-2022
-
-Gonçalves, L.O., Kindel, A., **Bastazini, V.A.G.**,  & Teixeira, F.Z.
-
 ### The role of evolutionary modes for trait-based cascades in mutualistic networks
 
 *Ecological Modelling* 470: 109983
@@ -205,6 +195,16 @@ N/A
 2022
 
 Bergamin, R S., Ascensão, F., Capinha, C.,  **Bastazini, V.A.G.**, Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G.E.
+
+### Mainstreaming ecological connectivity in road environmental impact assessments: a long way to go
+
+*Impact Assessment and Project Appraisal* 1-6
+
+N/A
+
+2022
+
+Gonçalves, L.O., Kindel, A., **Bastazini, V.A.G.**,  & Teixeira, F.Z.
 
 ### Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies
 
