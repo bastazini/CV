@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -189,7 +189,7 @@ Galiana, N., Lurgi M., **Bastazini, V.A.G.**, Bosch, J., Cagnolo, L., Cazelles, 
 
 ### Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales
 
-*Journal of VegetationScience* 33(3): e13133
+*Journal of Vegetation Science* 33(3): e13133
 
 N/A
 
@@ -493,7 +493,7 @@ USEB
 
 Brazil
 
-In press.
+In prep.
 
 Gonçalves, M., **Bastazini, V.A.G.**,  Lanés, L. E., Andretti, C.
 
@@ -502,16 +502,16 @@ In: *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*
 
 Brazil
 
-In press.
+In prep.
 
 **Bastazini, V. A. G.**,  Gianuca A.T., Vizentin-Bugoni J.,  Gonçalves, M.S.S., & Dias R.A.
 
-### A fragmentação afeta a dinâmica populacional do arredio-do-gravatá em manchas úmidas naturais (Habitat fragmentation compromises the population dynamic of the Straight-billed Reedhaunter in natural wetlands)
+### A fragmentação afeta a dinâmica das populações do arredio-do-gravatá (Limnoctites rectirostris) em manchas de áreas úmidas continentais (Habitat fragmentation compromises the population dynamic of the Straight-billed Reedhaunter in continental wetlands)
 In: *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. eds.: Gonçalves, M., Andretti, C., **Bastazini, V.A.G.**, Lanés, L. E. USEB
 
 Brazil
 
-In press.
+In prep.
 
 Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J. & Iborra, G.L.
 
@@ -644,6 +644,14 @@ Porto Alegre, Brazil
 
 Invited Talks  {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+###  Climate change: Re-shuffling the Tangled Bank
+
+Institute of Geography and Spatial Planning - University of Lisbon
+
+Portugal
+
+2022
 
 ###  Understanding the responses of mutualistic networks to climate change through the lens of evolutionary history
 
@@ -845,6 +853,7 @@ N/A
 - Methods in Ecology and Evolution
 - Oikos
 - Perspectives in Plant Ecology Evolution and Systematics
+- Plos Biology
 - Scientific Reports
 - The Science of Nature
 ::: 
