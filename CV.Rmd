@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -199,7 +199,7 @@ Bergamin, R S., Ascensão, F., Capinha, C.,  **Bastazini, V.A.G.**, Andrade, B. 
 
 ### Mainstreaming ecological connectivity in road environmental impact assessments: a long way to go
 
-*Impact Assessment and Project Appraisal* 1-6
+*Impact Assessment and Project Appraisal* 40 (6): 475-480
 
 N/A
 
@@ -620,6 +620,20 @@ Caçapava do Sul, Brazil
 
 Academic Advisory {data-icon=user-friends}
 --------------------------------------------------------------------------------
+
+### Talita Menger Ribeiro
+Dissertation - PhD Degree in Ecology, University of Évora. (Advisor Doctoral Sandwich Program -CNPq). Using individual based Models to predict ecological connectivity loss
+
+Évora, Portugal
+
+2023
+
+### Bibiana Terra Dasoler de Oliveira
+Dissertation - PhD Degree in Ecology, University of Évora. (Co-advisor Doctoral Sandwich Program -CAPES). 
+
+Évora, Portugal
+
+2022/2023
 
 ### Bruna de Castro Knopp
 Thesis - Master's Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil.
