@@ -487,8 +487,7 @@ In press.
 
 Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F.
 
-### Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil (Biodiversity and conservation of aquatic ecosystems in southern Brazil)
-
+### Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil (Biodiversity and conservation of aquatic ecosystems in southern Brazil). 
 USEB
 
 Brazil
@@ -516,14 +515,14 @@ In prep.
 Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J. & Iborra, G.L.
 
 
-### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps)
-Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.SESC Publishing Co. 
+### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps).
+SESC Publishing Co. 
 
 Brazil
 
 2013
 
-NA
+Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., Oliveira, L. F. B.
 
 
 Teaching Experience as an Instructor {data-icon=chalkboard-teacher}
@@ -866,6 +865,7 @@ N/A
 - Journal of Biogeography
 - Methods in Ecology and Evolution
 - Oikos
+- Perspectives in Ecology and Conservation
 - Perspectives in Plant Ecology Evolution and Systematics
 - Plos Biology
 - Scientific Reports
