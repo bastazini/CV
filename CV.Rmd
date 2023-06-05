@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -895,6 +895,7 @@ N/A
 - Perspectives in Ecology and Conservation
 - Perspectives in Plant Ecology Evolution and Systematics
 - Plos Biology
+- Proceedings of the National Academy of Sciences
 - Scientific Reports
 - The Science of Nature
 ::: 
