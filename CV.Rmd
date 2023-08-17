@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -168,23 +168,14 @@ N/A
 
 N/A
 
-### Elevational shifts in tree community composition in the Atlantic Forest under climate change 
-
-*Journal of Vegetation Science* 
-
-N/A
-
-Under review
-
-Bergamin, R.S. **Bastazini, V.A.G.**, Esquivel-Muelbert, A., Bordin, K.M.,Klipel, J., Debastiani, V.J., Vibrans, A., Loyola, R., Müller, S.C. 
 
 ### Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic 
 
-*Ecology and Evolution* 
+*Authorea Preprints* 
 
 N/A
 
-In press
+2023
 
 Biz, L. **Bastazini, V.A.G.**, Carvalho, F., Pereira, M.J.R.
 
