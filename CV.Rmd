@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -959,6 +959,27 @@ Writer
 Portugal
 
 2021 - present
+
+### Transport Ecology
+Invited Writer
+
+Australia
+
+2022
+
+### R-Bloggers
+Invited Writer
+
+USA
+
+2021
+
+### Blog Methods In Ecology and Evolution
+Invited Writer
+
+UK
+
+2019
 
 ### Blog Biodiverse Perspectives
 Co-founder, Writer and International Communications and Outreach Chairman
