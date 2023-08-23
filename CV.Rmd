@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -94,9 +94,9 @@ Professional Experience {data-icon=suitcase}
 
 ### Researcher / Professor
 
-University of  Évora
+University of  Evora
 
-Évora, Portugal
+Evora, Portugal
 
 2021 - present
 
@@ -494,7 +494,7 @@ N/A
 ### Road effects on biotic interactions
 In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road Ecology: Synthesis and Perspectives*.  Elsevier Science Publishing Co.
 
-Germany
+N/A
 
 In press
 
@@ -503,7 +503,7 @@ Mestre, F., Quiles, P., **Bastazini, V.A.G.**, Ascensão, F.
 ### Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil (Biodiversity and conservation of aquatic ecosystems in southern Brazil). 
 USEB
 
-Brazil
+N/A
 
 In press
 
@@ -512,7 +512,7 @@ Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M.
 ### Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas (Unravelling the conservation potential of wetlands using complex network tools)
 In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
 
-Brazil
+N/A
 
 In press
 
@@ -521,7 +521,7 @@ In press
 ### Ecossistemas Aquáticos Continentais do sul do Brasil: Contexto histórico e desafios para a conservação (Aquatic Ecosystems of Southern Brazil: Historical Context and Challenges for Conservation)
 In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
 
-Brazil
+N/A
 
 In press
 
@@ -530,7 +530,7 @@ Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,  Lanés, L. E., Volcan, M.
 ### A fragmentação afeta a dinâmica das populações do arredio-do-gravatá (Limnoctites rectirostris) em manchas de áreas úmidas continentais (Habitat fragmentation compromises the population dynamic of the Straight-billed Reedhaunter in continental wetlands)
 In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
 
-Brazil
+N/A
 
 In press.
 
@@ -540,7 +540,7 @@ Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J. 
 ### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps).
 SESC Publishing Co. 
 
-Brazil
+N/A
 
 2013
 
@@ -651,16 +651,16 @@ Academic Advisory {data-icon=user-friends}
 --------------------------------------------------------------------------------
 
 ### Talita Menger Ribeiro
-Dissertation - PhD Degree in Ecology, University of Évora. (Advisor Doctoral Sandwich Program -CNPq). 
+Dissertation - PhD Degree in Ecology, University of Evora. (Advisor Doctoral Sandwich Program -CNPq). 
 
-Évora, Portugal
+Evora, Portugal
 
 2023
 
 ### Bibiana Terra Dasoler de Oliveira
-Dissertation - PhD Degree in Ecology, University of Évora. (Co-advisor Doctoral Sandwich Program -CAPES). 
+Dissertation - PhD Degree in Ecology, University of Evora. (Co-advisor Doctoral Sandwich Program -CAPES). 
 
-Évora, Portugal
+Evora, Portugal
 
 2022 - 2023
 
@@ -692,7 +692,7 @@ Invited Talks  {data-icon=chalkboard-teacher}
 
 Pedagogical and Technological University of Colombia
 
-Colombia
+Tunja, Colombia
 
 2023
 
@@ -700,7 +700,7 @@ Colombia
 
 Institute of Geography and Spatial Planning - University of Lisbon
 
-Portugal
+Lisbon, Portugal
 
 2022
 
@@ -708,7 +708,7 @@ Portugal
 
 Norwegian Institute for Nature Research
 
-Norway
+Torgarden, Norway
 
 2022
 
@@ -822,7 +822,7 @@ Pelotas, Brazil
 
 2012
 
-### Species Detectability in Mammalogy Studies: Implications and Analytical Solutions 
+### Species Detectability in Mastozoology: Implications and Analytical Solutions 
 
 Econsciência Institute
 
@@ -954,37 +954,64 @@ Outreach {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### Blog Geekcologist
-Writer
+Maintainer, Writer
 
-Portugal
+N/A
 
 2021 - present
 
 ### Transport Ecology
 Invited Writer
 
-Australia
+N/A
 
 2022
 
 ### R-Bloggers
 Invited Writer
 
-USA
+N/A
 
 2021
 
 ### Blog Methods In Ecology and Evolution
 Invited Writer
 
-UK
+N/A
 
 2019
 
 ### Blog Biodiverse Perspectives
 Co-founder, Writer and International Communications and Outreach Chairman
 
-USA
+N/A
 
 2013 - 2019
 
+
+Conference Organization {data-icon=user-friends}
+--------------------------------------------------------------------------------
+
+###  The Alfred Wallace Seminar Series
+
+N/A
+
+Evora, Portugal
+
+2023
+
+###  Science Festival '23 / School of Science and Technology Day
+
+N/A
+
+Evora, Portugal
+
+2023
+
+###  1st Biennial Meeting of the Brazilian Association of Ecological Science and Conservation /  5th Symposium on Theoretical Ecology
+
+N/A
+
+Gramado, Brazil
+
+2016
