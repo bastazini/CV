@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -34,10 +34,11 @@ Contact Info {#contact}
 Expertise {#skills}
 --------------------------------------------------------------------------------
 
-- Bigeography
+- Biogeography
 - Community Ecology 
-- Evolutionary Ecology 
 - Complex Networks 
+- Evolutionary Ecology
+- Functional Ecology
 - Conservation Biology
 
 
