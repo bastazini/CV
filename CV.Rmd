@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -172,11 +172,11 @@ N/A
 
 ### Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic 
 
-*Authorea Preprints* 
+*Ecology and Evolution* 
 
 N/A
 
-2023
+In press
 
 Biz, L. **Bastazini, V.A.G.**, Carvalho, F., Pereira, M.J.R.
 
