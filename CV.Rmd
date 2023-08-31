@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -689,7 +689,7 @@ Porto Alegre, Brazil
 Invited Talks  {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Cambios Climáticos: Re-enmarañando el enmarañado Darwiniano
+### Climate change: Re-shuffling Darwin's Tangled Bankno
 
 Pedagogical and Technological University of Colombia
 
@@ -715,7 +715,7 @@ Torgarden, Norway
 
 ### Ecological networks
 
-Dep. of Ecology – Federal University of Rio Grande do Sul
+Department of Ecology – Federal University of Rio Grande do Sul
 
 Porto Alegre, Brazil
 
@@ -725,15 +725,15 @@ Porto Alegre, Brazil
 
 Emílio Goeldi Museum
 
-Belém do Pará, Brazil
+Belém do Para, Brazil
 
 2020
 
 ### Climate Change: Re-shuffling the tangled bank
 
-Biology Program. Federal Institute Farroupilha 
+Department of Biology. Federal Institute Farroupilha 
 
-Santa-Maria, Brazil
+Santa Maria, Brazil
 
 2020
  
@@ -747,7 +747,7 @@ Pelotas, Brazil
 
 ### Climate-driven phenological shifts and the eco-evolutionary dynamics of mutualistic networks
 
-Dep. of Animal Biology – Federal University of Rio Grande do Sul
+Department of Animal Biology – Federal University of Rio Grande do Sul
 
 Porto Alegre, Brazil
 
@@ -787,7 +787,7 @@ Swansea, Wales
 
 ### Coextinction and robustness in mutualistic networks: eco-evolutionary dynamics and patterns
 
-Dep. of Ecology – Federal University of Rio Grande do Sul
+Department of Ecology – Federal University of Rio Grande do Sul
 
 Porto Alegre, Brazil
 
@@ -795,7 +795,7 @@ Porto Alegre, Brazil
 
 ### Coextinction and robustness in mutualistic networks: eco-evolutionary dynamics and patterns
 
-Dep. of Ecology – University of Vale dos Sinos
+Department of Ecology – University of Vale dos Sinos
 
 São Leopoldo, Brazil
 
@@ -809,7 +809,7 @@ São Paulo, Brazil
 
 ### Coextinction and robustness in mutualistic networks
 
-Dep. of Animal Biology – Federal University of Rio Grande do Sul
+Department of Animal Biology – Federal University of Rio Grande do Sul
 
 Porto Alegre, Brazil
 
@@ -823,7 +823,7 @@ Pelotas, Brazil
 
 2012
 
-### Species Detectability in Mastozoology: Implications and Analytical Solutions 
+### Species detectability in mastozoology: Implications and analytical solutions 
 
 Econsciência Institute
 
@@ -831,7 +831,7 @@ Viamão, Brazil
 
 2011
 
-### Considerations on the Use of Camera Traps in Conservation Biology
+### Considerations on the use of camera traps in conservation biology
 
 Federal University of Rio Grande do Sul/ Curicaca Institute
 
