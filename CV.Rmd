@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -181,11 +181,11 @@ Bergamin, R.S., **Bastazini, V.A.G.**, Esquivel-Muelbert, A., Bordin, K., Klipel
 
 ### Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic 
 
-*Ecology and Evolution* 
+*Ecology and Evolution* 13(9): e10527
 
 N/A
 
-In press
+2023
 
 Biz, L. **Bastazini, V.A.G.**, Carvalho, F., Pereira, M.J.R.
 
