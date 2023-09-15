@@ -36,10 +36,10 @@ Expertise {#skills}
 
 - Biogeography
 - Community Ecology 
+- Conservation Biology
 - Complex Networks 
 - Evolutionary Ecology
 - Functional Ecology
-- Conservation Biology
 
 
 Main
@@ -169,6 +169,15 @@ N/A
 
 N/A
 
+### Elevational shifts in tree community composition in the Brazilian Atlantic Forest 
+
+*Journal of Vegetation Science* 
+
+N/A
+
+Under review
+
+Bergamin, R.S., **Bastazini, V.A.G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., Müller, S.
 
 ### Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic 
 
@@ -539,7 +548,7 @@ Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J. 
 
 
 ### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps).
-SESC Publishing Co. 
+SESC Publishing Co. ISBN: 978-85-89336-99-4
 
 N/A
 
