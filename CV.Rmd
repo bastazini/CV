@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -698,7 +698,7 @@ Porto Alegre, Brazil
 Invited Talks  {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Climate change: Re-shuffling Darwin's Tangled Bankno
+### Climate change: Re-shuffling Darwin's Tangled Bank
 
 Pedagogical and Technological University of Colombia
 
