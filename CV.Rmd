@@ -215,7 +215,7 @@ Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
 N/A
 
-Under review
+In revision
 
 Mestre, F., **Bastazini, V.A.G.**, Galiana, N.,Rozenfeld, A., Araújo, M.
 
@@ -1011,7 +1011,7 @@ Road networks as disruptors of ecological networks (€3,333; Role: Co-pi)
 
 Portugal
 
-2023-2024
+2024
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
 Research fellowship (R$24,000)
@@ -1053,7 +1053,7 @@ Undergraduate scholarship (R$1,200)
 
 Brazil
 
-2004-2005
+2004 - 2005
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
 Undergraduate scholarship (R$1,080)
@@ -1137,15 +1137,29 @@ N/A
 2013
 
 
-Outreach {data-icon=laptop}
+Science Communication and Outreach {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Blog Geekcologist
+### Blog Geekcologist – Ecology & Modelling
 Maintainer, Writer
 
 N/A
 
 2021 - present
+
+### R-Bloggers
+Contributor, writer
+
+N/A
+
+2021 - present
+
+### Magazine Naturae Digital
+Writer
+
+N/A
+
+2023 - present
 
 ### Transport Ecology
 Invited Writer
@@ -1153,13 +1167,6 @@ Invited Writer
 N/A
 
 2022
-
-### R-Bloggers
-Contributor, writer
-
-N/A
-
-2021 -present
 
 ### Blog Methods In Ecology and Evolution
 Invited Writer
