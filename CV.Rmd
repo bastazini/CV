@@ -8,7 +8,7 @@ output:
     self_contained: false
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 
 ---
@@ -100,7 +100,7 @@ Undergraduate Thesis: Spatial Analysis of the Trophic Ecology of the Neotropical
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Researcher
+### Junior Researcher
 
 University of  Evora
 
@@ -178,19 +178,17 @@ N/A
 
 ### Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction 
 
-*Global Change Biology
-* 
+*Global Change Biology* 
 
 N/A
 
-Under review
+In revision
 
 Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., **Bastazini, V.A.G.**
 
 ### Are threatened species important for glueing interaction networks together? 
 
-*Perspectives in Ecology and Conservation
-* 
+*Perspectives in Ecology and Conservation* 
 
 N/A
 
@@ -198,10 +196,19 @@ Under review
 
 Del-Pliego,P., Galiana, N, González-Trujillo, J.D., Araújo, M.B., **Bastazini, V.A.G.**
 
+### Wildlife-vehicle collisions simplify regional food webs 
+
+*Conservation Biology* 
+
+N/A
+
+Under review
+
+Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
+
 ### Prioritising road mitigation efforts based on landscape structure and species navigation traits: insights from mechanistic modelling 
 
-*Journal of Applied Ecology
-* 
+*Biological Conservation*
 
 N/A
 
@@ -215,27 +222,17 @@ Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
 N/A
 
-In revision
+Under review
 
 Mestre, F., **Bastazini, V.A.G.**, Galiana, N.,Rozenfeld, A., Araújo, M.
 
-### Wildlife-vehicle collisions simplify regional food webs 
+### Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change
 
-*Conservation Biology* 
-
-N/A
-
-Under review
-
-Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
-
-### Elevational shifts in tree community composition in the Brazilian Atlantic Forest 
-
-*Journal of Vegetation Science* 
+*Journal of Vegetation Science* 35(4): e13289
 
 N/A
 
-Under review
+2024
 
 Bergamin, R.S., **Bastazini, V.A.G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., Müller, S.
 
@@ -561,8 +558,17 @@ N/A
 
 N/A
 
+### Diversity and extinction risk of Andean amphibians across life regions
+In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean Herpetofauna Ecology and Conservation*.  Elsevier Science Publishing Co.
+
+N/A
+
+Under review
+
+González-del-Pliego, P., **Bastazini, V.A.G.**
+
 ### Road effects on biotic interactions
-In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road Ecology: Synthesis and Perspectives*.  Elsevier Science Publishing Co.
+In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road Ecology: Synthesis and Perspectives*. Elsevier Science Publishing Co.
 
 N/A
 
@@ -577,10 +583,10 @@ N/A
 
 In press
 
-Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M.
+Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M.
 
 ### Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas (Unravelling the conservation potential of wetlands using complex network tools)
-In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
+In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
 
 N/A
 
@@ -588,17 +594,17 @@ In press
 
 **Bastazini, V.A.G.**,  Gianuca, A.T., Vizentin-Bugoni J.,  Gonçalves, M.S.S., & Dias R.A.
 
-### Ecossistemas Aquáticos Continentais do sul do Brasil: Contexto histórico e desafios para a conservação (Aquatic Ecosystems of Southern Brazil: Historical Context and Challenges for Conservation)
-In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
+### Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação (Aquatic Ecosystems of Southern Brazil: Environmental and Historical Context and Challenges for Conservation)
+In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
 
 N/A
 
 In press
 
-Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,  Lanés, L. E., Volcan, M.
+ **Bastazini, V.A.G.**, Gonçalves, M.,  Lima, L.T., Andretti, C., Lanés, L.E., Volcan, M., Milheira, R.G.
 
 ### A fragmentação afeta a dinâmica das populações do arredio-do-gravatá (Limnoctites rectirostris) em manchas de áreas úmidas continentais (Habitat fragmentation compromises the population dynamic of the Straight-billed Reedhaunter in continental wetlands)
-In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C.,   Lanés, L. E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
+In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
 
 N/A
 
@@ -1003,7 +1009,7 @@ Pelotas, Brazil
 
 2010
 
-Prizes, Awards, & Fellowships {data-icon=award}
+Awards, Fellowships  and Grants {data-icon=award}
 --------------------------------------------------------------------------------
 
 ### CHANGE – Global Change and Sustainability
