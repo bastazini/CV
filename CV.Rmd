@@ -23,8 +23,8 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
+- <i class="fas fa-globe"></i> [Personal Website](https://bastazini.github.io)
 - <i class="fa fa-envelope"></i> bastazini.vinicius@gmail.com
-- <i class="fab fa-skype"></i> vinicius.bastazini 
 - <i class="fa fa-github"></i> [github.com/bastazini](https://github.com/bastazini)
 - <i class="fab fa-researchgate"></i> [Research Gate](https://www.researchgate.net/profile/Vinicius-Bastazini-2)
 - <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=4X6LiBQAAAAJ&hl=pt-BR)
@@ -196,7 +196,7 @@ Under review
 
 Del-Pliego,P., Galiana, N, González-Trujillo, J.D., Araújo, M.B., **Bastazini, V.A.G.**
 
-### Wildlife-vehicle collisions simplify regional food webs 
+### Road density simplifies regional food webs 
 
 *Conservation Biology* 
 
