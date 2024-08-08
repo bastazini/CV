@@ -1100,6 +1100,7 @@ N/A
 - Evolutionary Ecology
 - Forest Ecology and Management
 - Frontiers in Ecology and Evolution
+- Functional Ecology
 - Iheringia - Série Botânica
 - Iheringia – Série Zoologia
 - Journal of Animal Ecology
