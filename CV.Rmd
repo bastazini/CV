@@ -182,7 +182,7 @@ N/A
 
 N/A
 
-In revision
+Under review
 
 Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., **Bastazini, V.A.G.**
 
@@ -225,6 +225,16 @@ N/A
 Under review
 
 Mestre, F., **Bastazini, V.A.G.**, Galiana, N.,Rozenfeld, A., Araújo, M.
+
+### Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha
+
+*Ornithology Research*
+
+N/A
+
+Under review
+
+Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
 
 ### Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change
 
@@ -1155,18 +1165,18 @@ N/A
 2021 - present
 
 ### R-Bloggers
-Contributor, writer
+Contributor, Writer
 
 N/A
 
 2021 - present
 
 ### Magazine Naturae Digital
-Writer
+Invited Writer
 
 N/A
 
-2023 - present
+2023
 
 ### Transport Ecology
 Invited Writer
