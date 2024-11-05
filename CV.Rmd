@@ -5,11 +5,13 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 
 ##PARA PRODUZIR PDF
 knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
+#options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
+
 
 ---
 
@@ -106,7 +108,7 @@ University of  Evora
 
 Evora, Portugal
 
-2021 - present
+2021 - 2024
 
 ### Post-doctoral Researcher
 
@@ -176,26 +178,6 @@ N/A
 
 N/A
 
-### Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction 
-
-*Global Change Biology* 
-
-N/A
-
-Under review
-
-Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., **Bastazini, V.A.G.**
-
-### Are threatened species important for glueing interaction networks together? 
-
-*Perspectives in Ecology and Conservation* 
-
-N/A
-
-Under review
-
-Del-Pliego,P., Galiana, N, González-Trujillo, J.D., Araújo, M.B., **Bastazini, V.A.G.**
-
 ### Road density simplifies regional food webs 
 
 *Conservation Biology* 
@@ -212,7 +194,7 @@ Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
 
 N/A
 
-Under review
+Under revision
 
 Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
@@ -235,6 +217,27 @@ N/A
 Under review
 
 Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
+
+### Are threatened species important for glueing interaction networks together? 
+
+*Perspectives in Ecology and Conservation* 
+
+N/A
+
+In press
+
+Del-Pliego,P., Galiana, N., González-Trujillo, J.D., Mestre, F., Araújo, M.B., **Bastazini, V.A.G.**
+
+### Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction 
+
+*Global Change Biology* 30, e17513
+
+N/A
+
+2024
+
+Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., **Bastazini, V.A.G.**
+
 
 ### Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change
 
@@ -569,16 +572,16 @@ N/A
 N/A
 
 ### Diversity and extinction risk of Andean amphibians across life regions
-In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean Herpetofauna Ecology and Conservation*.  Elsevier Science Publishing Co.
+In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean Herpetofauna Ecology and Conservation*.  Springer.
 
 N/A
 
-Under review
+In press
 
 González-del-Pliego, P., **Bastazini, V.A.G.**
 
 ### Road effects on biotic interactions
-In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road Ecology: Synthesis and Perspectives*. Elsevier Science Publishing Co.
+In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road Ecology: Synthesis and Perspectives*. Springer.
 
 N/A
 
@@ -586,45 +589,47 @@ In press
 
 Mestre, F., Quiles, P., **Bastazini, V.A.G.**, Ascensão, F.
 
-### Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil (Biodiversity and conservation of aquatic ecosystems in southern Brazil). 
-USEB
+### Ecologia e conservação de ecossistemas aquáticos do sul do Brasil (Ecology and conservation of aquatic ecosystems in southern Brazil). 
+Editora USEB, 236 p. ISBN: 978-85-89985-39-0
 
 N/A
 
-In press
+2024
 
 Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M.
 
-### Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas (Unravelling the conservation potential of wetlands using complex network tools)
-In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
-
-N/A
-
-In press
-
-**Bastazini, V.A.G.**,  Gianuca, A.T., Vizentin-Bugoni J.,  Gonçalves, M.S.S., & Dias R.A.
-
 ### Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação (Aquatic Ecosystems of Southern Brazil: Environmental and Historical Context and Challenges for Conservation)
-In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
+In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Ecologia e conservação de ecossistemas aquáticos do sul do Brasil*. 
+Editora USEB, pp. 25-35. ISBN: 978-85-89985-39-0
 
 N/A
 
-In press
+2024
 
  **Bastazini, V.A.G.**, Gonçalves, M.,  Lima, L.T., Andretti, C., Lanés, L.E., Volcan, M., Milheira, R.G.
 
 ### A fragmentação afeta a dinâmica das populações do arredio-do-gravatá (Limnoctites rectirostris) em manchas de áreas úmidas continentais (Habitat fragmentation compromises the population dynamic of the Straight-billed Reedhaunter in continental wetlands)
-In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB
+In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Ecologia e conservação de ecossistemas aquáticos do sul do Brasil*. 
+Editora USEB, pp.117-125.  ISBN: 978-85-89985-39-0
 
 N/A
 
-In press.
+2024
 
 Gonçalves M. S., Pons, P., Bonow, F., **Bastazini, V.A.G.**, Gil-Delgado, J. & Iborra, G.L.
 
+### Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas (Unravelling the conservation potential of wetlands using complex network tools)
+In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Ecologia e conservação de ecossistemas aquáticos do sul do Brasil*. 
+Editora USEB, pp. 127-137. ISBN: 978-85-89985-39-0
+
+N/A
+
+2024
+
+**Bastazini, V.A.G.**,  Gianuca, A.T., Vizentin-Bugoni J.,  Gonçalves, M.S.S., & Dias R.A.
 
 ### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps).
-SESC Publishing Co. ISBN: 978-85-89336-99-4
+Editora SESC, 55 p. ISBN: 978-85-89336-99-4
 
 N/A
 
@@ -642,7 +647,7 @@ University of Evora
 
 Evora, Portugal
 
-2022 - present
+2022 - 2024
 
 ### Biostatistic using R
 
@@ -861,6 +866,14 @@ Pelotas, Brazil
 Invited Talks  {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
+### Coping with Collapse: How Functional Diversity, Evolutionary History, and Their Loss Shape Ecological Network Robustness
+
+University of Lille
+
+Lille, France
+
+2024
+
 ### Climate change: Re-shuffling Darwin's Tangled Bank
 
 Pedagogical and Technological University of Colombia
@@ -1019,39 +1032,53 @@ Pelotas, Brazil
 
 2010
 
-Awards, Fellowships  and Grants {data-icon=award}
+Awards, Fellowships and Grants {data-icon=award}
 --------------------------------------------------------------------------------
 
+### German Centre for Integrative Biodiversity Research (iDiv)
+The future of ecological networks under extreme climate change (€8,933.00/ per year; Role: Senior researcher)
+
+Germany
+
+2024 - 
+
 ### CHANGE – Global Change and Sustainability
-Road networks as disruptors of ecological networks (€3,333; Role: Co-pi)
+Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi)
 
 Portugal
 
 2024
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
-Research fellowship (R$24,000)
+Eco-evolutionary dynamics and their impacts on community structure and ecosystem functioning along river intermittency gradients and anthropogenic impacts (R$115,000.00; Role: Collaborator)
+
+Brazil
+
+2024 - 2026
+
+### Brazilian National Council for Scientific and Technological Development (CNPq)
+Research fellowship (R$24,000.00)
 
 Brazil
 
 2016
 
 ### International Association for Vegetation Science
-Travel grant (€1,700)
+Travel grant (€1,700.00)
 
 Australia
 
 2014
 
 ### Coordination for the Improvement of Higher Education Personnel (CAPES)
-Doctoral Scholarship (R$105,600)
+Doctoral Scholarship (R$105,600.00)
 
 Brazil
 
 2011 - 2015
 
 ### Coordination for the Improvement of Higher Education Personnel (CAPES)
-MSc scholarship (R$36,000)
+MSc scholarship (R$36,000.00)
 
 Brazil
 
@@ -1065,14 +1092,14 @@ Brazil
 2009
 
 ### O Boticário Foundation
-Undergraduate scholarship (R$1,200)
+Undergraduate scholarship (R$1,200.00)
 
 Brazil
 
 2004 - 2005
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
-Undergraduate scholarship (R$1,080)
+Undergraduate scholarship (R$1,080.00)
 
 Brazil
 
@@ -1119,6 +1146,7 @@ N/A
 - Oikos
 - Perspectives in Ecology and Conservation
 - Perspectives in Plant Ecology Evolution and Systematics
+- Physica A: Statistical Mechanics and its Applications
 - Plos Biology
 - Proceedings of the National Academy of Sciences
 - Scientific Reports
