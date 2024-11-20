@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -27,6 +27,8 @@ Contact Info {#contact}
 
 - <i class="fas fa-globe"></i> [Personal Website](https://bastazini.github.io)
 - <i class="fa fa-envelope"></i> bastazini.vinicius@gmail.com
+- <i class="fa fa-map-marker"></i> Nivelles, Belgium
+- <i class="fa fa-phone"></i> +123 456 7890
 - <i class="fa fa-github"></i> [github.com/bastazini](https://github.com/bastazini)
 - <i class="fab fa-researchgate"></i> [Research Gate](https://www.researchgate.net/profile/Vinicius-Bastazini-2)
 - <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=4X6LiBQAAAAJ&hl=pt-BR)
@@ -178,6 +180,16 @@ N/A
 
 N/A
 
+### Prioritising road mitigation efforts based on landscape structure and species navigation traits: insights from mechanistic modelling 
+
+*Biological Conservation*
+
+N/A
+
+In revision
+
+Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
+
 ### Road density simplifies regional food webs 
 
 *Conservation Biology* 
@@ -188,17 +200,7 @@ Under review
 
 Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
 
-### Prioritising road mitigation efforts based on landscape structure and species navigation traits: insights from mechanistic modelling 
-
-*Biological Conservation*
-
-N/A
-
-Under revision
-
-Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
-
-### Environmental and Human Effects on In- and Out-degree Distributions in Ecological Networks 
+### Environmental and human effects on in- and out-degree distributions in ecological networks 
 
 *Basic and Applied Ecology* 
 
@@ -224,11 +226,11 @@ Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
 
 N/A
 
-In press
+2024
 
 Del-Pliego,P., Galiana, N., González-Trujillo, J.D., Mestre, F., Araújo, M.B., **Bastazini, V.A.G.**
 
-### Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction 
+### Coping with collapse: Functional robustness of coral-reef fish network to simulated cascade extinction 
 
 *Global Change Biology* 30, e17513
 
@@ -290,7 +292,7 @@ N/A
 
 Bergamin, R S., Ascensão, F., Capinha, C.,  **Bastazini, V.A.G.**, Andrade, B.O., Boldrini, I.I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G.E.
 
-### Mainstreaming ecological connectivity in road environmental impact assessments: a long way to go
+### Mainstreaming ecological connectivity in road environmental impact assessments: A long way to go
 
 *Impact Assessment and Project Appraisal* 40 (6): 475-480
 
@@ -353,7 +355,7 @@ N/A
 
 Vizentin-Bugoni, J., Debastiani, V.J., **Bastazini, V.A.G.**, Maruyama, P.K. & Sperry J.H
 
-### NEOTROPICAL CARNIVORES: a dataset of occurrence of carnivores in the Neotropics.
+### NEOTROPICAL CARNIVORES: A dataset of occurrence of carnivores in the Neotropics.
 
 *Ecology* 101 (11): e03128
 
@@ -363,7 +365,7 @@ N/A
 
 Nagy-Reis, M.B.,[ …], **Bastazini, V.A.G.**, et al. 
 
-### NEOTROPICAL ALIEN MAMMALS: a dataset of occurrence and abundance of alien mammals in the Neotropics
+### NEOTROPICAL ALIEN MAMMALS: A dataset of occurrence and abundance of alien mammals in the Neotropics
 
 *Ecology* 101 (11): e03115.
 
@@ -383,7 +385,7 @@ N/A
 
 **Bastazini, V.A.G.**, Debastiani, V., Azambuja, B., Guimarães, P., & Pillar, V.
 
-### NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics
+### NEOTROPICAL XENARTHRANS: A data set of occurrence of xenarthran species in the Neotropics
 
 *Ecology* 100(7): e02663
        
@@ -413,7 +415,7 @@ N/A
 
 Garcias, F.M., Stolz J., Fernández G.P., Kubiak B.B., **Bastazini, V.A.G.** & Freitas T.R.O.
 
-### Reptile road-kills in Southern Brazil: Composition, hot moments and hotspots
+### Reptile road-kills in southern Brazil: Composition, hot moments and hotspots
 
 *Science of the Total Environment* 615: 1438-1445
 
@@ -572,7 +574,7 @@ N/A
 N/A
 
 ### Diversity and extinction risk of Andean amphibians across life regions
-In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean Herpetofauna Ecology and Conservation*.  Springer.
+In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean herpetofauna - explorations of diversity, ecology, and conservation*.  Springer.
 
 N/A
 
@@ -581,7 +583,7 @@ In press
 González-del-Pliego, P., **Bastazini, V.A.G.**
 
 ### Road effects on biotic interactions
-In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road Ecology: Synthesis and Perspectives*. Springer.
+In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road ecology: Synthesis and perspectives*. Springer.
 
 N/A
 
@@ -598,7 +600,7 @@ N/A
 
 Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M.
 
-### Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação (Aquatic Ecosystems of Southern Brazil: Environmental and Historical Context and Challenges for Conservation)
+### Ecossistemas aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação (Aquatic ecosystems of southern Brazil: Environmental and historical context and challenges for conservation)
 In: (eds) Gonçalves, M., **Bastazini, V.A.G.**, Andretti, C., Lanés, L.E., Volcan, M. *Ecologia e conservação de ecossistemas aquáticos do sul do Brasil*. 
 Editora USEB, pp. 25-35. ISBN: 978-85-89985-39-0
 
@@ -628,7 +630,7 @@ N/A
 
 **Bastazini, V.A.G.**,  Gianuca, A.T., Vizentin-Bugoni J.,  Gonçalves, M.S.S., & Dias R.A.
 
-### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: a perspective through camera traps).
+### Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: Uma perspectiva através de armadilhas fotográficas (Fauna of the SESC Pantanal Natural Heritage Private Reserve: A perspective through camera traps).
 Editora SESC, 55 p. ISBN: 978-85-89336-99-4
 
 N/A
@@ -776,8 +778,15 @@ Porto Alegre, Brazil
 
 2012
 
-Academic Examination Committee {data-icon=search}
+Academic and Conference Jury Committee {data-icon=search}
 --------------------------------------------------------------------------------
+
+### BES Best Poster Prize 
+British Ecological Society Annual Meeting
+
+Belfast, Northern Irland
+
+2023
 
 ### Wagner de França Alves
 PhD Degree in Ecology, Federal University of Rio Grande do Norte 
@@ -1036,11 +1045,11 @@ Awards, Fellowships and Grants {data-icon=award}
 --------------------------------------------------------------------------------
 
 ### German Centre for Integrative Biodiversity Research (iDiv)
-The future of ecological networks under extreme climate change (€8,933.00/ per year; Role: Senior researcher)
+The future of ecological networks under extreme climate change (€26,799.00; Role: Senior researcher)
 
 Germany
 
-2024 - 
+2025 - 2028 
 
 ### CHANGE – Global Change and Sustainability
 Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi)
