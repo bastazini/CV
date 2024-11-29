@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -219,6 +219,16 @@ N/A
 Under review
 
 Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
+
+### Southern Brazil’s 2024 Floods: Causes, Impacts, and How Wetlands Can Help Mitigate Extreme Climate Disasters
+
+*SILNews*
+
+N/A
+
+In press
+
+**Bastazini, V.A.G.**,Hofmann, G.S.
 
 ### Are threatened species important for glueing interaction networks together? 
 
