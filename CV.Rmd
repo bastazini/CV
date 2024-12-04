@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -190,16 +190,6 @@ In revision
 
 Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
-### Road density simplifies regional food webs 
-
-*Conservation Biology* 
-
-N/A
-
-Under review
-
-Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
-
 ### Environmental and human effects on in- and out-degree distributions in ecological networks 
 
 *Basic and Applied Ecology* 
@@ -210,13 +200,23 @@ Under review
 
 Mestre, F., **Bastazini, V.A.G.**, Galiana, N.,Rozenfeld, A., Araújo, M.
 
+### Road density simplifies regional food webs 
+
+*Conservation Biology* 
+
+N/A
+
+In press
+
+Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
+
 ### Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha
 
 *Ornithology Research*
 
 N/A
 
-Under review
+In press
 
 Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
 
