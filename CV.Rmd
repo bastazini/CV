@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -1165,7 +1165,6 @@ N/A
 - Oikos
 - Perspectives in Ecology and Conservation
 - Perspectives in Plant Ecology Evolution and Systematics
-- Physica A: Statistical Mechanics and its Applications
 - Plos Biology
 - Proceedings of the National Academy of Sciences
 - Scientific Reports
