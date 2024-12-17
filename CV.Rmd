@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -210,25 +210,25 @@ In press
 
 Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
 
-### Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha
-
-*Ornithology Research*
-
-N/A
-
-In press
-
-Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
-
 ### Southern Brazil’s 2024 Floods: Causes, Impacts, and How Wetlands Can Help Mitigate Extreme Climate Disasters
 
-*SILNews*
+*International Society of Limnology News*
 
 N/A
 
 In press
 
 **Bastazini, V.A.G.**,Hofmann, G.S.
+
+### Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha
+
+*Ornithology Research* 33(12), 1-9
+
+N/A
+
+2025
+
+Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
 
 ### Are threatened species important for glueing interaction networks together? 
 
