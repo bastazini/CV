@@ -190,15 +190,15 @@ In revision
 
 Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
-### Environmental and human effects on in- and out-degree distributions in ecological networks 
+### Climate change in the Brazilian Cerrado: a looming threat to terrestrial biodiversity 
 
-*Basic and Applied Ecology* 
+*Global Change Biology* 
 
 N/A
 
 Under review
 
-Mestre, F., **Bastazini, V.A.G.**, Galiana, N.,Rozenfeld, A., Araújo, M.
+Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Granada, C.E., Kaminski, L.A., Ubaid, F.K., Leandro-Silva, V., Borges-Martins, M., Silva, R.C., Cardoso, M.F., Oliveira, L.F.B., Aquino, F.E., & Ramos Pereira, M.J.
 
 ### Road density simplifies regional food webs 
 
@@ -212,7 +212,7 @@ Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
 
 ### Southern Brazil’s 2024 Floods: Causes, Impacts, and How Wetlands Can Help Mitigate Extreme Climate Disasters
 
-*International Society of Limnology News*
+*International Society of Limnology News* 85, 6-7.
 
 N/A
 
@@ -232,7 +232,7 @@ Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
 
 ### Are threatened species important for glueing interaction networks together? 
 
-*Perspectives in Ecology and Conservation* 
+*Perspectives in Ecology and Conservation* 22(4), 342-347
 
 N/A
 
@@ -790,6 +790,13 @@ Porto Alegre, Brazil
 
 Academic and Conference Jury Committee {data-icon=search}
 --------------------------------------------------------------------------------
+### Olivia Norfolk Poster Prize 
+British Ecological Society Annual Meeting
+
+Liverpool, England
+
+2024
+
 
 ### BES Best Poster Prize 
 British Ecological Society Annual Meeting
