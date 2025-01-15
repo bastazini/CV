@@ -40,8 +40,8 @@ Expertise {#skills}
 
 - Biogeography
 - Community Ecology 
-- Conservation Biology
 - Complex Networks 
+- Conservation Biology
 - Evolutionary Ecology
 - Functional Ecology
 
@@ -172,7 +172,7 @@ Pelotas, Brazil
 Publications{data-icon=file}
 --------------------------------------------------------------------------------
 
-### PEER-REVIEWED ARTICLES 
+### SCHOLARLY ARTICLES 
 
 N/A
 
@@ -192,13 +192,23 @@ Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
 ### Climate change in the Brazilian Cerrado: a looming threat to terrestrial biodiversity 
 
-*Global Change Biology* 
+*...* 
 
 N/A
 
 Under review
 
 Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Granada, C.E., Kaminski, L.A., Ubaid, F.K., Leandro-Silva, V., Borges-Martins, M., Silva, R.C., Cardoso, M.F., Oliveira, L.F.B., Aquino, F.E., & Ramos Pereira, M.J.
+
+### The role of threatened species in food web structure across Europe
+
+*Diversity & Distributions * 
+
+N/A
+
+Under review
+
+Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Araújo, M. B.
 
 ### Road density simplifies regional food webs 
 
