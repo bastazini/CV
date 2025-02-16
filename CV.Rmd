@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -189,6 +189,16 @@ N/A
 In revision
 
 Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
+
+### Mapping global shipless areas and conflict zones between shipping and marine biodiversity 
+
+*Biological Conservation*
+
+N/A
+
+Under Review
+
+Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., Ascensão, F.
 
 ### Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity 
 
