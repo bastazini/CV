@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -202,7 +202,7 @@ Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo,
 
 ### Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity 
 
-*...* 
+*WIREs Climate Change* 
 
 N/A
 
@@ -226,17 +226,17 @@ Dias, R., **Bastazini, V.A.G.**, Gianuca, A., & Matthews, T.J.
 
 N/A
 
-Under review
+In revision
 
 Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Araújo, M. B.
 
 ### Effects of road density on regional food webs 
 
-*Conservation Biology* 
+*Conservation Biology*, e70007
 
 N/A
 
-In press
+2025
 
 Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
 
