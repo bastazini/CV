@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -190,17 +190,6 @@ In revision
 
 Dias, R., **Bastazini, V.A.G.**, Gianuca, A., & Matthews, T.J.
 
-### The role of threatened species in food web structure across Europe
-
-*Diversity & Distributions * 
-
-N/A
-
-In revision
-
-Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Araújo, M. B.
-
-
 ### Prioritising road mitigation efforts based on landscape structure and species navigation traits: insights from mechanistic modelling 
 
 *Biological Conservation*
@@ -230,6 +219,16 @@ N/A
 Under review
 
 Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Granada, C.E., Kaminski, L.A., Ubaid, F.K., Leandro-Silva, V., Borges-Martins, M., Silva, R.C., Cardoso, M.F., Oliveira, L.F.B., Aquino, F.E., & Ramos Pereira, M.J.
+
+### Contrasting Roles of Threatened and Non-threatened Species in European Food Webs
+
+*Diversity & Distributions * 
+
+N/A
+
+Under review
+
+Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Araújo, M. B.
 
 ### Effects of road density on regional food webs 
 
