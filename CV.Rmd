@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -236,7 +236,7 @@ Mestre, F., Galiana, N., **Bastazini, V.A.G.**, Gonz√°lez-del-Pliego, P., & Ara√
 
 N/A
 
-Under review
+In press
 
 **Bastazini, V.A.G.**
 
