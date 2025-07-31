@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 
@@ -196,9 +196,20 @@ Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
 N/A
 
-Under Review
+In revision
 
 Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., Ascensão, F.
+
+### Contrasting Roles of Threatened and Non-threatened Species in European Food Webs
+
+*Diversity & Distributions * 
+
+N/A
+
+In revision
+
+Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Araújo, M. B.
+
 
 ### Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity 
 
@@ -220,16 +231,6 @@ Under review
 
 Dias, R., **Bastazini, V.A.G.**, Gianuca, A., & Matthews, T.J.
 
-### Contrasting Roles of Threatened and Non-threatened Species in European Food Webs
-
-*Diversity & Distributions * 
-
-N/A
-
-Under review
-
-Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Araújo, M. B.
-
 ### From Pairwise Interactions to Community Structure: A Trait-Based Approach to Inferring Assembly Mechanisms Across Spatial Scales
 
 *Functional Ecology * 
@@ -242,7 +243,7 @@ In press
 
 ### Effects of road density on regional food webs 
 
-*Conservation Biology*, e70007
+*Conservation Biology* 39(4), e70007
 
 N/A
 
