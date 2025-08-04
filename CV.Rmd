@@ -104,6 +104,14 @@ Undergraduate Thesis: Spatial Analysis of the Trophic Ecology of the Neotropical
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Scientific Consultant
+
+Kome Consulting/ The Nature Conservancy
+
+Belgium (remote)
+
+2025 (February- May)
+
 ### Junior Researcher
 
 University of  Evora
@@ -190,16 +198,6 @@ In revision
 
 Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
 
-### Mapping global shipless areas and conflict zones between shipping and marine biodiversity 
-
-*Biological Conservation*
-
-N/A
-
-In revision
-
-Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., Ascensão, F.
-
 ### Contrasting Roles of Threatened and Non-threatened Species in European Food Webs
 
 *Diversity & Distributions * 
@@ -231,13 +229,23 @@ Under review
 
 Dias, R., **Bastazini, V.A.G.**, Gianuca, A., & Matthews, T.J.
 
-### From Pairwise Interactions to Community Structure: A Trait-Based Approach to Inferring Assembly Mechanisms Across Spatial Scales
+### Mapping global shipless areas and conflict zones between shipping and marine large vertebrates 
 
-*Functional Ecology * 
+*Biological Conservation*
 
 N/A
 
-In press
+Under review
+
+Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., Ascensão, F.
+
+### From Pairwise Interactions to Community Structure: A Trait-Based Approach to Inferring Assembly Mechanisms Across Spatial Scales
+
+*Functional Ecology*, 1-3 
+
+N/A
+
+2025
 
 **Bastazini, V.A.G.**
 
@@ -253,7 +261,7 @@ Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
 
 ### Southern Brazil’s 2024 Floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters
 
-*SILNews* 85, 6-7.
+*SILNews - The International Society of Limnology Newsletter* 85, 6-7.
 
 N/A
 
