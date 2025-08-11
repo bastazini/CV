@@ -8,9 +8,11 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
+#/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
+
 
 
 ---
@@ -231,11 +233,11 @@ Dias, R., **Bastazini, V.A.G.**, Gianuca, A., & Matthews, T.J.
 
 ### Mapping global shipless areas and conflict zones between shipping and marine large vertebrates 
 
-*Biological Conservation*
+*Biological Conservation*, 311: 111431
 
 N/A
 
-In press
+2025
 
 Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., Ascensão, F.
 
