@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -137,6 +137,14 @@ French National Center for Scientific Research
 Moulis, France
 
 2017 - 2019
+
+### Visiting Professor Biostatistcs
+
+Federal University of Rio Grande do Sul - Graduate Program in Botany
+
+Porto Alegre, Brazil
+
+2017
 
 ### Research Fellow
 
@@ -728,6 +736,14 @@ Pelotas, Brazil
 
 2014
 
+### Biostatistics
+
+Catholic University of Pelotas
+
+Pelotas, Brazil 
+
+2013
+
 ### Theoretical Ecology
 
 Federal University of Rio Grande do Sul
@@ -786,7 +802,7 @@ Mostardas, Brazil
 
 ### Sampling and Analysis Techniques in Animal Ecology
 
-Catholic University of Pelotas
+I International Seminar on Education and Research in Ecology
 
 Pelotas, Brazil 
 
@@ -1109,74 +1125,109 @@ Pelotas, Brazil
 
 2010
 
-Awards, Fellowships and Grants {data-icon=award}
+Awards, Research Funding and Participation {data-icon=award}
 --------------------------------------------------------------------------------
 
 ### German Centre for Integrative Biodiversity Research (iDiv)
-The future of ecological networks under extreme climate change (€26,799.00; Role: Collaborator)
+The future of ecological networks under extreme climate change (€26,799.00; Role: Collaborator).
 
 Germany
 
 2025 - 2028 
 
 ### CHANGE – Global Change and Sustainability
-Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi)
+Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi).
 
 Portugal
 
 2024
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
-Eco-evolutionary dynamics and their impacts on community structure and ecosystem functioning along river intermittency gradients and anthropogenic impacts (R$115,000.00; Role: Collaborator)
+Eco-evolutionary dynamics and their impacts on community structure and ecosystem functioning along river intermittency gradients and anthropogenic impacts (R$115,000.00; Role: Collaborator).
 
 Brazil
 
 2024 - 2026
 
+### Europen Research Concil (ERC)
+FRAGCLIM "The Combined Effects of Climatic Warming and Habitat Fragmentation on Biodiversity, Community Dynamics and Ecosystem Functioning". (€ 1.998.802,00; Role: Participant).
+
+France
+
+2017-2019
+
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
-Research fellowship (R$24,000.00)
+PPBio: Southern Grasslands Network. Research fellowship (R$24,000.00).
 
 Brazil
 
 2016
 
 ### International Association for Vegetation Science
-Travel grant (€1,700.00)
+Travel grant (€1,700.00).
 
 Australia
 
 2014
 
 ### Coordination for the Improvement of Higher Education Personnel (CAPES)
-Doctoral Scholarship (R$105,600.00)
+Integrating evolutionary and ecological processes in the study of interaction networks. Doctoral Scholarship (R$105,600.00).
 
 Brazil
 
 2011 - 2015
 
+### National Science Foundation (NSF)
+Dimensions of Biodiversity Distributed Graduate Seminar (U$1,561,257; Role: Participant).
+
+USA
+
+2011 - 2015
+
 ### Coordination for the Improvement of Higher Education Personnel (CAPES)
-MSc scholarship (R$36,000.00)
+Effects of habitat structure and spatial patterns on mammal diversity in northern Pantanal: a fine-scale approach. MSc scholarship (R$36,000.00).
 
 Brazil
 
 2009 - 2011
 
 ### Helmut Sick Award
-XVII Brazilian Congress of Ornithology
+XVII Brazilian Congress of Ornithology.
 
 Brazil
 
 2009
 
+### Fibria Celulose / Catholic University of Pelotas
+Monitoring of Avifauna in Eucalyptus Plantation Areas of Votorantim Celulose e Papel, Rio Grande do Sul, Brazil. Research fellowship.
+
+Brazil
+
+2008 - 2009
+
+### BAESA / Federal University of Rio Grande do Sul
+Post-flooding monitoring of fauna in the area affected by the Barra Grande Hydroelectric Plant. Research fellowship.
+
+Brazil
+
+2008 - 2009
+
+### VCP Florestal S.A. / Catholic University of Pelotas
+Integrated study of ecosystems in areas allocated for eucalyptus planting by VCP – Conservation Flora and Fauna Project, RS. Undergraduate scholarship. 
+
+Brazil
+
+2004 - 2005
+
 ### O Boticário Foundation
-Undergraduate scholarship (R$1,200.00)
+Project: Assessment of fauna affected by roadkill in the Taim Ecological Station and its surroundings. Undergraduate scholarship (R$1,200.00).
 
 Brazil
 
 2004 - 2005
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
-Undergraduate scholarship (R$1,080.00)
+Assessment of the impact of illegal breeding on the conservation of the Water Tiger (Trachemys dorbigni) (Testudines – Emydidae). Undergraduate scholarship (R$1,080.00). 
 
 Brazil
 
