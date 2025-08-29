@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -1128,12 +1128,11 @@ Pelotas, Brazil
 Awards, Research Funding and Participation {data-icon=award}
 --------------------------------------------------------------------------------
 
-### German Centre for Integrative Biodiversity Research (iDiv)
-The future of ecological networks under extreme climate change (€26,799.00; Role: Collaborator).
+### Leading/Primary Roles
 
-Germany
+N/A
 
-2025 - 2028 
+N/A 
 
 ### CHANGE – Global Change and Sustainability
 Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi).
@@ -1141,6 +1140,54 @@ Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi).
 Portugal
 
 2024
+
+### International Association for Vegetation Science
+Travel grant (€1,700.00).
+
+Australia
+
+2014
+
+### Coordination for the Improvement of Higher Education Personnel (CAPES)
+Integrating evolutionary and ecological processes in the study of interaction networks. Doctoral Scholarship (R$105,600.00).
+
+Brazil
+
+2011 - 2015
+
+### Coordination for the Improvement of Higher Education Personnel (CAPES)
+Effects of habitat structure and spatial patterns on mammal diversity in northern Pantanal: a fine-scale approach. MSc scholarship (R$36,000.00).
+
+Brazil
+
+2009 - 2011
+
+### Helmut Sick Award
+XVII Brazilian Congress of Ornithology.
+
+Brazil
+
+2009
+
+### Brazilian National Council for Scientific and Technological Development (CNPq)
+Assessment of the impact of illegal breeding on the conservation of the Water Tiger (Trachemys dorbigni) (Testudines – Emydidae). Undergraduate scholarship (R$1,080.00). 
+
+Brazil
+
+2004
+
+### Collaborative/Participating Roles
+
+N/A
+
+N/A 
+
+### German Centre for Integrative Biodiversity Research (iDiv)
+The future of ecological networks under extreme climate change (€26,799.00; Role: Collaborator).
+
+Germany
+
+2025 - 2028 
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
 Eco-evolutionary dynamics and their impacts on community structure and ecosystem functioning along river intermittency gradients and anthropogenic impacts (R$115,000.00; Role: Collaborator).
@@ -1163,40 +1210,12 @@ Brazil
 
 2016
 
-### International Association for Vegetation Science
-Travel grant (€1,700.00).
-
-Australia
-
-2014
-
-### Coordination for the Improvement of Higher Education Personnel (CAPES)
-Integrating evolutionary and ecological processes in the study of interaction networks. Doctoral Scholarship (R$105,600.00).
-
-Brazil
-
-2011 - 2015
-
 ### National Science Foundation (NSF)
 Dimensions of Biodiversity Distributed Graduate Seminar (U$1,561,257; Role: Participant).
 
 USA
 
 2011 - 2015
-
-### Coordination for the Improvement of Higher Education Personnel (CAPES)
-Effects of habitat structure and spatial patterns on mammal diversity in northern Pantanal: a fine-scale approach. MSc scholarship (R$36,000.00).
-
-Brazil
-
-2009 - 2011
-
-### Helmut Sick Award
-XVII Brazilian Congress of Ornithology.
-
-Brazil
-
-2009
 
 ### Fibria Celulose / Catholic University of Pelotas
 Monitoring of Avifauna in Eucalyptus Plantation Areas of Votorantim Celulose e Papel, Rio Grande do Sul, Brazil. Research fellowship.
@@ -1225,13 +1244,6 @@ Project: Assessment of fauna affected by roadkill in the Taim Ecological Station
 Brazil
 
 2004 - 2005
-
-### Brazilian National Council for Scientific and Technological Development (CNPq)
-Assessment of the impact of illegal breeding on the conservation of the Water Tiger (Trachemys dorbigni) (Testudines – Emydidae). Undergraduate scholarship (R$1,080.00). 
-
-Brazil
-
-2004
 
 Member of Editorial Board {data-icon=search}
 --------------------------------------------------------------------------------
