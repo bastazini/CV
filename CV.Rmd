@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -855,7 +855,7 @@ Porto Alegre, Brazil
 
 2012
 
-Academic and Conference Jury Committee {data-icon=search}
+Academic and Conference Jury Committee {data-icon=gavel}
 --------------------------------------------------------------------------------
 ### Olivia Norfolk Poster Prize 
 British Ecological Society Annual Meeting
@@ -956,7 +956,7 @@ Pelotas, Brazil
 
 2011
 
-Invited Talks  {data-icon=chalkboard-teacher}
+Invited Talks {data-icon=comment-dots}
 --------------------------------------------------------------------------------
 
 ### Coping with Collapse: How Functional Diversity, Evolutionary History, and Their Loss Shape Ecological Network Robustness
@@ -1125,7 +1125,7 @@ Pelotas, Brazil
 
 2010
 
-Grants, Fellowships, and Project Involvement {data-icon=hand-holding-usd}
+Grants, Fellowships, and Project Involvement {data-icon=university}
 --------------------------------------------------------------------------------
 
 ### German Centre for Integrative Biodiversity Research (iDiv)
@@ -1236,7 +1236,7 @@ Brazil
 
 2009
 
-Member of Editorial Board {data-icon=search}
+Member of Editorial Board {data-icon=book}
 --------------------------------------------------------------------------------
 ### Functional Ecology
 
@@ -1358,7 +1358,7 @@ N/A
 2013 - 2019
 
 
-Conference Organization {data-icon=user-friends}
+Conference Organization {data-icon=users}
 --------------------------------------------------------------------------------
 
 ###  The Alfred Wallace Seminar Series
