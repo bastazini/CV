@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -231,11 +231,11 @@ Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Gra
 
 ### The spatial scaling of multiple dimensions of functional diversity in habitat islands
 
-*Functional Ecology * 
+*Functional Ecology*: 1-17 
 
 N/A
 
-In press
+2025
 
 Dias, R., **Bastazini, V.A.G.**, Gianuca, A., & Matthews, T.J.
 
