@@ -206,7 +206,7 @@ N/A
 
 Under review
 
-Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., **Bastazini, V.A.G.**
+Dasoler, B, Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V.A.G.**
 
 ### Contrasting Roles of Threatened and Non-threatened Species in European Food Webs
 
@@ -221,13 +221,13 @@ Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Ara�
 
 ### Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity 
 
-*WIREs Climate Change* 
+*Wiley Interdisciplinary Reviews: Climate Change* 
 
 N/A
 
-Under review
+In press
 
-Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Granada, C.E., Kaminski, L.A., Ubaid, F.K., Leandro-Silva, V., Borges-Martins, M., Silva, R.C., Cardoso, M.F., Oliveira, L.F.B., Aquino, F.E., & Ramos Pereira, M.J.
+Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Granada, C.E., Kaminski, L.A., Ubaid, F.K., Leandro-Silva, V., Borges-Martins, M., Silva, R.C., Cardoso, M.F., Oliveira, L.F.B., Aquino, F.E., & Pereira, M.J.R.
 
 ### The spatial scaling of multiple dimensions of functional diversity in habitat islands
 
@@ -247,7 +247,7 @@ N/A
 
 2025
 
-Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., Ascensão, F.
+Mestre, F., D'Amico, M., **Bastazini, V.A.G.**, Assis, J.,Jacinto, D., Marçalo, A., & Ascensão, F.
 
 ### From Pairwise Interactions to Community Structure: A Trait-Based Approach to Inferring Assembly Mechanisms Across Spatial Scales
 
@@ -267,7 +267,7 @@ N/A
 
 2025
 
-Mestre, F., **Bastazini, V.A.G.**, Ascensão, F.
+Mestre, F., **Bastazini, V.A.G.**, & Ascensão, F.
 
 ### Southern Brazil’s 2024 Floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters
 
@@ -277,7 +277,7 @@ N/A
 
 2025
 
-**Bastazini, V.A.G.**,Hofmann, G.S.
+**Bastazini, V.A.G.**, & Hofmann, G.S.
 
 ### Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha
 
@@ -287,7 +287,7 @@ N/A
 
 2025
 
-Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., Fontana, C.
+Franz, I., Chiarini, E., **Bastazini, V.A.G.**, Boldrini, I., & Fontana, C.
 
 ### Are threatened species important for glueing interaction networks together? 
 
@@ -297,7 +297,7 @@ N/A
 
 2024
 
-Del-Pliego,P., Galiana, N., González-Trujillo, J.D., Mestre, F., Araújo, M.B., **Bastazini, V.A.G.**
+Del-Pliego,P., Galiana, N., González-Trujillo, J.D., Mestre, F., Araújo, M.B., & **Bastazini, V.A.G.**
 
 ### Coping with collapse: Functional robustness of coral-reef fish network to simulated cascade extinction 
 
@@ -307,7 +307,7 @@ N/A
 
 2024
 
-Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., **Bastazini, V.A.G.**
+Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., & **Bastazini, V.A.G.**
 
 
 ### Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change
@@ -318,7 +318,7 @@ N/A
 
 2024
 
-Bergamin, R.S., **Bastazini, V.A.G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., Müller, S.
+Bergamin, R.S., **Bastazini, V.A.G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., & Müller, S.
 
 ### Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic 
 
@@ -328,7 +328,7 @@ N/A
 
 2023
 
-Biz, L. **Bastazini, V.A.G.**, Carvalho, F., Pereira, M.J.R.
+Biz, L. **Bastazini, V.A.G.**, Carvalho, F., & Pereira, M.J.R.
 
 
 ### The role of evolutionary modes for trait-based cascades in mutualistic networks
