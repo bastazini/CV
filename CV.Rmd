@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -221,11 +221,11 @@ Mestre, F., Galiana, N., **Bastazini, V.A.G.**, González-del-Pliego, P., & Ara�
 
 ### Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity 
 
-*Wiley Interdisciplinary Reviews: Climate Change* 
+*Wiley Interdisciplinary Reviews: Climate Change* 16 (5): e70022
 
 N/A
 
-In press
+2025
 
 Hofmann, G., Weber, E., **Bastazini, V.A.G.**, Rossatto, D.R., Franco, A.C., Granada, C.E., Kaminski, L.A., Ubaid, F.K., Leandro-Silva, V., Borges-Martins, M., Silva, R.C., Cardoso, M.F., Oliveira, L.F.B., Aquino, F.E., & Pereira, M.J.R.
 
@@ -1148,13 +1148,6 @@ Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi).
 Portugal
 
 2024
-
-### Europen Research Concil (ERC)
-FRAGCLIM "The Combined Effects of Climatic Warming and Habitat Fragmentation on Biodiversity, Community Dynamics and Ecosystem Functioning". (€ 1.998.802,00; Role: Participant).
-
-France
-
-2017-2019
 
 ### Brazilian National Council for Scientific and Technological Development (CNPq)
 PPBio: Southern Grasslands Network. Research fellowship (R$24,000.00).
