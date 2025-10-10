@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -1125,22 +1125,8 @@ Pelotas, Brazil
 
 2010
 
-Grants, Fellowships, and Project Involvement {data-icon=university}
+Acquired Third Party Funding {data-icon="dollar-sign"}
 --------------------------------------------------------------------------------
-
-### German Centre for Integrative Biodiversity Research (iDiv)
-The future of ecological networks under extreme climate change (€26,799.00; Role: Collaborator).
-
-Germany
-
-2025 - 2028 
-
-### Brazilian National Council for Scientific and Technological Development (CNPq)
-Eco-evolutionary dynamics and their impacts on community structure and ecosystem functioning along river intermittency gradients and anthropogenic impacts (R$115,000.00; Role: Collaborator).
-
-Brazil
-
-2024 - 2026
 
 ### CHANGE – Global Change and Sustainability
 Road networks as disruptors of ecological networks (€3,333.00; Role: Co-pi).
@@ -1163,13 +1149,6 @@ Australia
 
 2014
 
-### National Science Foundation (NSF)
-Dimensions of Biodiversity Distributed Graduate Seminar (U$1,561,257; Role: Participant).
-
-USA
-
-2011 - 2015
-
 ### Coordination for the Improvement of Higher Education Personnel (CAPES)
 Integrating evolutionary and ecological processes in the study of interaction networks. Doctoral Scholarship (R$105,600.00).
 
@@ -1183,27 +1162,6 @@ Effects of habitat structure and spatial patterns on mammal diversity in norther
 Brazil
 
 2009 - 2011
-
-### Fibria Celulose / Catholic University of Pelotas
-Monitoring of Avifauna in Eucalyptus Plantation Areas of Votorantim Celulose e Papel, Rio Grande do Sul, Brazil. Research fellowship (R$14,400.00).
-
-Brazil
-
-2008 - 2009
-
-### BAESA / Federal University of Rio Grande do Sul
-Post-flooding monitoring of fauna in the area affected by the Barra Grande Hydroelectric Plant. Research fellowship (R$14,400.00).
-
-Brazil
-
-2008 - 2009
-
-### VCP Florestal S.A. / Catholic University of Pelotas
-Integrated study of ecosystems in areas allocated for eucalyptus planting by VCP – Conservation Flora and Fauna Project, RS. Undergraduate scholarship (R$1,200.00). 
-
-Brazil
-
-2006 - 2007
 
 ### O Boticário Foundation
 Project: Assessment of fauna affected by roadkill in the Taim Ecological Station and its surroundings. Undergraduate scholarship (R$1,200.00).
