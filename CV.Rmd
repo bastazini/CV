@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -138,13 +138,13 @@ Moulis, France
 
 2017 - 2019
 
-### Visiting Professor Biostatistcs
+### Visiting Professor Biostatistics using the R programming environment.
 
 Federal University of Rio Grande do Sul - Graduate Program in Botany
 
 Porto Alegre, Brazil
 
-2017
+2017e s
 
 ### Research Fellow
 
@@ -156,11 +156,11 @@ Porto Alegre, Brazil
 
 ### Visiting Professor Biostatistcs
 
-Catholic University of Pelotas  - Specialization in Conservation Biology
+Catholic University of Pelotas - Specialization in Conservation Biology
 
 Pelotas, Brazil
 
-2013
+2014
 
 ### Research Fellow
 
@@ -720,7 +720,7 @@ Evora, Portugal
 
 2022 - 2024
 
-### Biostatistic using R
+### Biostatistics using the R programming environment
 
 Dep. Botany - Federal University of Rio Grande do Sul
 
@@ -742,7 +742,7 @@ Catholic University of Pelotas
 
 Pelotas, Brazil 
 
-2013
+2014
 
 ### Theoretical Ecology
 
