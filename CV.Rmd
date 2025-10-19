@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -106,14 +106,6 @@ Undergraduate Thesis: Spatial Analysis of the Trophic Ecology of the Neotropical
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Scientific Consultant
-
-Kome Consulting/ The Nature Conservancy
-
-Belgium (remote)
-
-2025 (February- May)
-
 ### Junior Researcher
 
 University of  Evora
@@ -138,13 +130,13 @@ Moulis, France
 
 2017 - 2019
 
-### Visiting Professor Biostatistics using the R programming environment.
+### Visiting Professor
 
 Federal University of Rio Grande do Sul - Graduate Program in Botany
 
 Porto Alegre, Brazil
 
-2017e s
+2017
 
 ### Research Fellow
 
@@ -154,7 +146,7 @@ Porto Alegre, Brazil
 
 2016
 
-### Visiting Professor Biostatistcs
+### Visiting Professor
 
 Catholic University of Pelotas - Specialization in Conservation Biology
 
