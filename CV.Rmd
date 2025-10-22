@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -635,7 +635,7 @@ N/A
 N/A
 
 ### Diversity and extinction risk of Andean amphibians across life regions
-In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean herpetofauna - explorations of diversity, ecology, and conservation*.  Springer.
+In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean herpetofauna - explorations of diversity, ecology, and conservation*.  Springer Cham.
 
 N/A
 
@@ -643,8 +643,8 @@ In press
 
 González-del-Pliego, P., **Bastazini, V.A.G.**
 
-### Road effects on biotic interactions
-In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road ecology: Synthesis and perspectives*. Springer.
+### Road effects on species interactions
+In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road ecology: Synthesis and perspectives*. Springer Cham.
 
 N/A
 
