@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -1207,6 +1207,7 @@ N/A
 - Biological Conservation
 - Community Ecology 
 - Ecography
+- Ecology
 - Ecology Letters
 - Evolutionary Ecology
 - Forest Ecology and Management
