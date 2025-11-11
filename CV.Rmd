@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -813,14 +813,14 @@ Academic Advisory {data-icon=user-friends}
 --------------------------------------------------------------------------------
 
 ### Talita Menger Ribeiro
-Dissertation - PhD Degree in Ecology, University of Evora. (Advisor Doctoral Sandwich Program -CNPq). 
+Dissertation - PhD Degree in Ecology, University of Evora. (Advisor Doctoral Sandwich Program-CNPq). 
 
 Evora, Portugal
 
 2023
 
 ### Bibiana Terra Dasoler de Oliveira
-Dissertation - PhD Degree in Ecology, University of Evora. (Co-advisor Doctoral Sandwich Program -CAPES). 
+Dissertation - PhD Degree in Ecology, University of Evora. (Advisor Doctoral Sandwich Program-CAPES). 
 
 Evora, Portugal
 
@@ -951,7 +951,7 @@ Pelotas, Brazil
 Invited Talks {data-icon=comment-dots}
 --------------------------------------------------------------------------------
 
-### Coping with Collapse: How Functional Diversity, Evolutionary History, and Their Loss Shape Ecological Network Robustness
+### Bracing for Collapse: How Functional Diversity and Evolution Shape the Robustness of Ecological Networks
 
 Federal University of Santa Catarina
 
