@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -634,15 +634,6 @@ N/A
 
 N/A
 
-### Diversity and extinction risk of Andean amphibians across life regions
-In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean herpetofauna - explorations of diversity, ecology, and conservation*.  Springer Cham.
-
-N/A
-
-In press
-
-González-del-Pliego, P., **Bastazini, V.A.G.**
-
 ### Road effects on species interactions
 In: (eds) D'Amico, M., Barrientos, R., Ascensão, F. *Road ecology: Synthesis and perspectives*. Springer Cham.
 
@@ -651,6 +642,15 @@ N/A
 In press
 
 Mestre, F., Quiles, P., **Bastazini, V.A.G.**, Ascensão, F.
+
+### Diversity and extinction risk of Andean amphibians across life regions
+In: (eds) Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. *Andean herpetofauna - explorations of diversity, ecology, and conservation*.  Springer, pp. 295–304. ISBNs: (hardcover) 978-3-032-00073-6, (softcover) 978-3-032-00076-7, (eBook) 978-3-032-00074-3
+
+N/A
+
+2026
+
+González-del-Pliego, P., **Bastazini, V.A.G.**
 
 ### Ecologia e conservação de ecossistemas aquáticos do sul do Brasil (Ecology and conservation of aquatic ecosystems in southern Brazil). 
 Editora USEB, 236 p. ISBN: 978-85-89985-39-0
