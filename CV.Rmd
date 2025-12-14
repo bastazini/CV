@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -108,7 +108,7 @@ Professional Experience {data-icon=suitcase}
 
 ### Junior Researcher
 
-University of  Evora
+University of  Evora - Mediterranean Institute for Agriculture, Environment and Development
 
 Evora, Portugal
 
@@ -124,7 +124,7 @@ Porto Alegre, Brazil
 
 ### Post-doctoral Researcher
 
-French National Center for Scientific Research
+French National Center for Scientific Research - Theoretical and Experimental Ecology Station
 
 Moulis, France
 
