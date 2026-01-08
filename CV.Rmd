@@ -8,7 +8,7 @@ output:
     self_contained: true
 
 ##PARA PRODUZIR PDF
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 #options(pagedown.remote.maxattempts=40)
 #options(pagedown.timeout = 60000)  # Increase timeout to 60 seconds
 #/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --version
@@ -105,6 +105,14 @@ Undergraduate Thesis: Spatial Analysis of the Trophic Ecology of the Neotropical
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Research Associate
+
+University of  Bonn - Bonner Institute for Organismal Biology
+
+Bonn, Germany
+
+2026 - present
 
 ### Junior Researcher
 
@@ -755,7 +763,7 @@ Porto Alegre, Brazil
 ### Introduction to R
 
 Pontifical Catholic University of Rio Grande do Sul
-
+pass
 Porto Alegre, Brazil
 
 2013 
